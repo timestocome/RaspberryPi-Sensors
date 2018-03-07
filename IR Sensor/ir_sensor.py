@@ -28,3 +28,9 @@ while True:
 
         # convert seconds to ms by dividing by 1000
         print(signal, dt)
+        
+        
+        
+        
+        
+        
